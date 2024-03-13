@@ -1,7 +1,7 @@
 # Myntra Clone
 
 ## Experince the Page
- https://jaydeepdangi.github.io/Myntra_Clone/
+ https://jaydeepdangi.github.io/Myntra_Clone/Myntra_Clone.html
 ## Overview
 
 This project is a clone of the Myntra website, created using HTML and CSS. The goal is to replicate the key features and design elements of the original Myntra platform, providing a responsive and visually appealing user interface.
