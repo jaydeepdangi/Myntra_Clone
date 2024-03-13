@@ -14,12 +14,12 @@ This project is a clone of the Myntra website, created using HTML and CSS. The g
 
 - HTML5 : The foundation of the page's structure and content.
 - CSS3 : CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.
-- 
+
 ## Project Structure
 
 - **Myntra_Clone.html:** Main HTML file containing the structure of the home page.
 - **Myntra_Clone.css:** CSS file for styling the HTML elements.
-- (Add more files as per your project structure)
+- **images_myntra:** Folder for the images used in the page.
 
 ## Usage
 
