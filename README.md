@@ -1,10 +1,9 @@
 # Myntra Clone
 
+This project is a clone of the Myntra website, created using HTML and CSS. The goal is to replicate the key features and design elements of the original Myntra platform, providing a responsive and visually appealing user interface.
+
 ## Experince the Page
  https://jaydeepdangi.github.io/Myntra_Clone/Myntra_Clone.html
-## Overview
-
-This project is a clone of the Myntra website, created using HTML and CSS. The goal is to replicate the key features and design elements of the original Myntra platform, providing a responsive and visually appealing user interface.
 
 ## Features
 - Navigation bar with categories and search functionality
@@ -26,3 +25,6 @@ This project is a clone of the Myntra website, created using HTML and CSS. The g
 ## Usage
 
 Explore the Clone page to witness firsthand the captivating design and the fruits of my front-end web development efforts. Interact with the page elements to experience its user-friendly interface and modern design sensibilities.
+
+## Preview
+ https://jaydeepdangi.github.io/Myntra_Clone/Myntra_Clone.html
